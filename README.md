@@ -10,7 +10,7 @@ NOTE: THIS IS NOT OFFICIAL UBIQUITI SOFTWARE AND THEREFORE NOT SUPPORTED OR ENDO
 
 ## Copyright
 
-* Copyright © 2019 Helm Rock Consulting
+* Copyright © 2020 Helm Rock Consulting
 
 ## Licenses
 
@@ -49,11 +49,6 @@ modification, are permitted provided that the following conditions are met:
 ## Compatibility
 
 * install-pkgs has been tested on the EdgeRouter ERLite-3, ERPoe-5, ER-X and UniFi Security Gateway USG-3 routers
-  * versions EdgeMAX: v1.7.0-v1.9.7+hotfix.4, UniFi: v4.4.12-v4.4.18
-
-## Latest Release
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Latest Release](https://img.shields.io/badge/-Latest%20Release-green.svg)](https://github.com/britannic/install-edgeos-packages/releases/latest)
 
 ## Change Log
 
